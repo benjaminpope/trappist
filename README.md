@@ -2,6 +2,10 @@
 
 ### Lightcurves made with k2p2 (raw photometry: https://arxiv.org/abs/1504.05199) and k2sc (detrending: https://github.com/OxES/k2sc)
 
+This is an *extremely* preliminary stab at a K2 lightcurve of TRAPPIST-1 - we haven't manually gone through and checked everything is right - but we are motivated to release what we have now by rumours on social media of a TRAPPIST-1h discovery already. We will hopefully improve on this in future if there is interest and welcome feedback on this lightcurve.
+
+GP fit to long cadence data via usual k2sc pipeline, taking centroids instead of WCS information though. GP fit to short cadence data using unpublished Aigrain+ method which divides it up into chunks, processes each one separately, and stitches together. All mistakes Ben Pope's entirely.
+
 ### Contributors: Rasmus Handberg, Tim White, Benjamin Pope, Suzanne Aigrain
 
 If you like our work, please cite k2sc
