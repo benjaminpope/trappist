@@ -39,3 +39,5 @@ and k2p2
 	   adsurl = {http://adsabs.harvard.edu/abs/2015ApJ...806...30L},
 	  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 	}
+
+## In particular for TRAPPIST-1, if you use these light curves in any publications, we would really like to be included as co-authors!
